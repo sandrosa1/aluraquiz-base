@@ -1,41 +1,56 @@
 {
     "bg": "/chuteInicial.jpg",
-    "title": "Quiz CSS da Alura",
+    "title": "Copas Quiz",
     "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
+        "image": "/preguinho-p.jpg",
+        "title": "Quem fez o primeiro gol em copas do mundo pela seleção brasileira?",
+        "description": "Rodada 1",
         "answer": 2,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Taxinha",
+          "parafuso",
+          "Preguinho",
+          "Pelé"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "image": "/pele.jpeg",
+        "title": "Em 1958 Pelé foi eleito o melhor jogar jovem, que foi o melhor marcador?",
+        "description": "Rodada 2",
+        "answer": 1,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "Pelé",
+           "Just Fontaine",
+           "Jairzinho",
+           "Fritz Walter"
+        ]
+      },
+      {
+        "image": "/copa1958.jpg",
+        "title": "Aos 17 anos de idade Pelé marcava seu primeiro gol em copas do mundo, qual País fez parte dessa história?",
+        "description": "Rodada 3",
+        "answer": 3,
+        "alternatives": [
+           "Uruguai",
+           "Dinamarca",
+           "Peru",
+           "País de Gales"
         ]
       }
     ],
+  
     "external": [
       ""
     ],
     "theme": {
       "colors": {
-        "primary": "#4CAF50",
-        "secondary": "#FF9800",
-        "mainBg": "#1C1814",
+        "primary": "#007bf7",
+        "secondary": "#13db56",
+        "mainBg": "#001e31",
         "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
+        "wrong": "#fa0209",
         "success": "#4CAF50"
       },
       "borderRadius": "4px"
