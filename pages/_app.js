@@ -44,7 +44,7 @@ export default function App({ Component, pageProps }) {
           <meta property="og:url" content="https://historias-das-copas-git-main.sandrosa1.vercel.app/"/>
           <meta property="og:title" content="Copas Quiz"/>
           <meta property="og:description" content="Um super quiz para testar seus conhecimentos em Copas do Mundo."/>
-          <meta property="og:image" content="{bg}"/>
+          <meta property="og:image" content="/chuteInicial.jpg"/>
           <meta property="twitter:card" content="summary_large_image"/>
           <meta property="twitter:url" content="https://historias-das-copas-git-main.sandrosa1.vercel.app/"/>
           <meta property="twitter:title" content="Copas Quiz"/>
