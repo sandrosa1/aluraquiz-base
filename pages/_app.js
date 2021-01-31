@@ -37,7 +37,7 @@ export default function App({ Component, pageProps }) {
     <>
       <ThemeProvider theme={theme}>
         <Head>
-          {/* <title>Copas Quiz</title>
+          <title>Copas Quiz</title>
           <meta name="title" content="Historias das Copas Quiz"/>
           <meta name="description" content="Um super quiz para testar seus conhecimentos em Copas do Mundo."/>
           <meta property="og:type" content="website"/>
@@ -50,7 +50,7 @@ export default function App({ Component, pageProps }) {
           <meta property="twitter:title" content="Copas Quiz"/>
           <meta property="twitter:description" content="Um super quiz para testar seus conhecimentos em Copas do Mundo."/>
           <meta property="twitter:image" content="/chuteInicial1.jpg"/>
-          <link rel="shortcut icon" href="/favicon.png" /> */}
+          <link rel="shortcut icon" href="/favicon.png" />
           <link rel="preconnect" href="https://fonts.gstatic.com"/>
           <link href="https://fonts.googleapis.com/css2?family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet"></link>
         </Head>
