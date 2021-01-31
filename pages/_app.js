@@ -25,6 +25,9 @@ const GlobalStyle = createGlobalStyle`
     display: flex;
     flex-direction: column;
   }
+  h1, h2, h3{
+    text-align: center;
+    }
 `;
 
 const theme = db.theme;

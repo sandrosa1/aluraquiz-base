@@ -1,23 +1,23 @@
 {
     "bg": "/chuteInicial.jpg",
-    "title": "Copas Quiz",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "História das Copas ",
+    "description": "Vamos ver se você e craque na História das Copas. Está preparado para encarar essa?",
     "questions": [
       {
-        "image": "/preguinho-p.jpg",
-        "title": "Quem fez o primeiro gol em copas do mundo pela seleção brasileira?",
+        "image": "/1982.jpeg",
+        "title": "Quem fez o primeiro gol em Copas do Mundo pela seleção brasileira?",
         "description": "Rodada 1",
         "answer": 2,
         "alternatives": [
           "Taxinha",
-          "parafuso",
+          "Parafuso",
           "Preguinho",
           "Pelé"
         ]
       },
       {
-        "image": "/pele.jpeg",
-        "title": "Em 1958 Pelé foi eleito o melhor jogar jovem, que foi o melhor marcador?",
+        "image": "/1986.jpg",
+        "title": "Em 1958 Pelé foi eleito o melhor jogador jovem da copa mas, quem foi o artilheiro desta edição?",
         "description": "Rodada 2",
         "answer": 1,
         "alternatives": [
@@ -28,8 +28,8 @@
         ]
       },
       {
-        "image": "/copa1958.jpg",
-        "title": "Aos 17 anos de idade Pelé marcava seu primeiro gol em copas do mundo, qual País fez parte dessa história?",
+        "image": "/1990.jpeg",
+        "title": "Aos 17 de idade Pelé marcava seu primeiro gol em Copas do Mundo, qual foi o país que levou esse gol?",
         "description": "Rodada 3",
         "answer": 3,
         "alternatives": [
@@ -38,11 +38,98 @@
            "Peru",
            "País de Gales"
         ]
+      },
+      {
+        "image": "/1994.jpeg",
+        "title": "Qual a maior goleada de todas as Copas?",
+        "description": "Rodada 4",
+        "answer": 0,
+        "alternatives": [
+           "Hungria 10 x 1 El Salvador (1982)",
+           "Alemanha 7 x 1 Brasil (2014)",
+           "Espanha x 1 Panama (2018)",
+           "Inglaterra 10 x 1 Portugal (1998)"
+        ]
+      },
+      {
+        "image": "/1998.jpeg",
+        "title": "Na copa de 1990 um goleiro passou 517 minutos sem levar gol, recorde que ainda não foi quebrado. Qual o nome dessa lenda?",
+        "description": "Rodada 5",
+        "answer": 1,
+        "alternatives": [
+           "Taffarel",
+           "Zenga",
+           "Sérgio Goycochea",
+           "Higuita"
+        ]
+      },
+      {
+        "image": "/2002.jpeg",
+        "title": "A primeira Copa do Mundo fora de um país europeu ou americano foi sediada por dois países em conjunto, Coreia do Sul e Japão. Qual foi o ano?",
+        "description": "Rodada 6",
+        "answer": 1,
+        "alternatives": [
+           "1998",
+           "2002",
+           "2006",
+           "2010"
+        ]
+      },
+      {
+        "image": "/2006.jpeg",
+        "title": "Qual o técnico com maior número de jogos acumulados em Copas?",
+        "description": "Rodada 7",
+        "answer": 0,
+        "alternatives": [
+           "O alemão Helmut Schön",
+           "O brasilerio Zagalo",
+           "O Italiano Cesare Prandelli",
+           "O Inglês Roy Hodgson"
+        ]
+      },
+      {
+        "image": "/2010.jpeg",
+        "title": "Qual o jogador que mais vezes foi Campeão do Mundo?",
+        "description": "Rodada 8",
+        "answer": 1,
+        "alternatives": [
+           "Ronaldo Fenômeno",
+           "Pelé",
+           "Miroslav Klose",
+           "Maradona"
+        ]
+      },
+      {
+        "image": "/2014.jpeg",
+        "title": "Quem é o maior artilheiro de todas as Copas do Mundo?",
+        "description": "Rodada 9",
+        "answer": 2,
+        "alternatives": [
+          "Ronaldo Fenômeno",
+           "Pelé",
+           "Miroslav Klose",
+           "Maradona"
+        ]
+      },
+      {
+        "image": "/2018.jpeg",
+        "title": "Um único jogador conseguiu marcar gols em todas as partidas de uma Copa. Quem é esse craque?",
+        "description": "Rodada 10",
+        "answer": 3,
+        "alternatives": [
+           "Ronaldo Fenômeno",
+           "Maradona",
+           "Miroslav Klose",
+           "Jairzinho"
+        ]
       }
     ],
   
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-coffee.leonardot07.vercel.app/",
+      "https://imersao-react-nextjs-git-main.matheusbronca.vercel.app/",
+      "https://harry-potter-quiz.brunogerbasi.vercel.app/"
     ],
     "theme": {
       "colors": {
